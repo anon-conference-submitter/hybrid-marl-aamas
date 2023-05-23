@@ -7,7 +7,7 @@ Hybrid MARL is an extension over the EPyMARL library.
 
 To install the codebase, run (tested with python 3.8.10): 
 ```sh
-./instal.sh
+./install.sh
 ```
 
 The MPE and LBF environments are already included in the provided folder. 
