@@ -3,7 +3,7 @@
 Hybrid MARL is an extension over the EPyMARL library.
 
 
-# Installation instructions
+## Installation instructions
 
 To install the codebase, run (tested with python 3.8.10): 
 ```sh
