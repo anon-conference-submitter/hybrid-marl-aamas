@@ -31,6 +31,5 @@ After installation, you can use the script run.sh to run experiments, where:
     - `ablation_no_pred_masks` - MD w/ masks baseline;
     - `maro_no_training` - MARO;
     - `maro` - MARO w/ dropout;
-    - `SimpleBlindDeaf-v0` - HearSee;
 4) `TIME_LIMIT` variable: 25 for MPE environments; 30 for LBF environments.
    
