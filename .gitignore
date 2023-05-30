@@ -254,10 +254,10 @@ env
 results
 
 *.db
-multiagent-particle-envs
+#multiagent-particle-envs
 node_modules
 package-lock.json
-lb-foraging
+#lb-foraging
 
 smac_req.txt
 req_new.txt
