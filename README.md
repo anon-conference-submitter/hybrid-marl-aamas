@@ -1,4 +1,4 @@
-# Hybrid MARL - Neurips submission #6996
+# Hybrid MARL - AAMAS submission #239
 
 Hybrid MARL is an extension over the EPyMARL library.
 
